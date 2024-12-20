@@ -1,4 +1,4 @@
-# Home Assistant Community Add-on: JupyterLab
+# Home Assistant Community Add-on: JupyterLab with Pyscript Kernel
 
 [![GitHub Release][releases-shield]][releases]
 ![Project Stage][project-stage-shield]
@@ -27,6 +27,8 @@ and explanatory text.
 ![The JupyterLab add-on](images/screenshot.png)
 
 ## About
+
+Customized version of [JupyterLab](https://github.com/hassio-addons/addon-jupyterlab) addon with support for [Pyscript](https://github.com/custom-components/pyscript).
 
 JupyterLab is an open-source web application that allows you to create and share
 documents that contain live code, equations, visualizations and narrative text.
@@ -65,6 +67,8 @@ Thank you for being involved! :heart_eyes:
 ## Authors & contributors
 
 The original setup of this repository is by [Franck Nijhof][frenck].
+
+Changes by [Bernhard Boser][iot49].
 
 For a full list of all authors and contributors,
 check [the contributor's page][contributors].
