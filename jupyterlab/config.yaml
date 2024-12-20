@@ -1,7 +1,7 @@
 ---
-name: JupyterLab
-version: dev
-slug: jupyterlablite
+name: JupyterLabPyscript
+version: "0.0.1"
+slug: jupyterlabpyscript
 description: Customized jupyterlab addon with support for Pyscript
 url: https://github.com/iot49/addon-jupyterlab-pyscript
 codenotary: ttmetro@leaf49.org
