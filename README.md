@@ -21,7 +21,7 @@
 
 [![Support Frenck on Patreon][patreon-shield]][patreon]
 
-Create documents containing live code, equations, visualizations,
+Debug pyscript automations and create jupyter documents containing live code, equations, visualizations,
 and explanatory text.
 
 ![The JupyterLab add-on](images/screenshot.png)
