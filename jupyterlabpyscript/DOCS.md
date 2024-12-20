@@ -1,4 +1,4 @@
-# Home Assistant Community Add-on: JupyterLab
+# Home Assistant Community Add-on: JupyterLab with Pyscript kernel
 
 JupyterLab is an open-source web application that allows you to create and share
 documents that contain live code, equations, visualizations and narrative text.
